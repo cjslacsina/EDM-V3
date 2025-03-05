@@ -1,5 +1,5 @@
 # My Midterm Lab Task 1- Data Cleaning and Preparation using Excel
-For this task we are given a Flat data from Excel [(See rawfile)]((https://github.com/user-attachments/files/19089934/midterm_lab_activity_lacsina1.xlsx)) and we are task to perform Data Cleaning and Preparation
+For this task we are given a Flat data from Excel [rawfile]((https://github.com/user-attachments/files/19089934/midterm_lab_activity_lacsina1.xlsx)) and we are task to perform Data Cleaning and Preparation
 
 ## Step by Step Process
 Step 1:
