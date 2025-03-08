@@ -9,7 +9,7 @@ College: Currently studying at City College of Angeles
 High School: Graduated from Republic Central Colleges
 
 ## My Projects:
-Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/README.MD)
+Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/cjslacsina/EDM-V3/blob/main/Midterm%20Lab%20Task%201/README.MD)
 
-Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](Midterm%20Lab%20Task%202/README.md)
+Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/cjslacsina/EDM-V3/blob/main/Midterm%20Lab%20Task%202/README.md)
 
