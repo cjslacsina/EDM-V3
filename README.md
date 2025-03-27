@@ -11,5 +11,6 @@
 ## My Projects:
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/cjslacsina/EDM-V3/blob/main/Midterm%20Lab%20Task%201/README.MD)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/cjslacsina/EDM-V3/blob/main/Midterm%20Lab%20Task%202/README.md)
+- Midterm Lab Task 3: [Slicers & Pivot Tables for an Interactive Dashboard](https://cjslacsina.github.io/Midterm-Lab-Task-3/)
 
 
