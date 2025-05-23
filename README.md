@@ -19,7 +19,7 @@
 - Final Lab Task 3:[Table Manipulation]()
 - Final Lab Task 3.1[Using MYSQL CLAUSE]()
 - Final Lab Task 5 [Views, Stored Procedures and Functions]()
-- Final Lab Task 6 [MongoDBCRUD]()
+
   
 
 
