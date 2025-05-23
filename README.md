@@ -14,7 +14,7 @@
 - Midterm Lab Task 3: [Slicers & Pivot Tables for an Interactive Dashboard](https://cjslacsina.github.io/Midterm-Lab-Task-3/)
 
 ## Finals Projects
-- Final Lab Task 1:[Creating a DATABASE USING MySQL WorkBench]
+- Final Lab Task 1:[Creating a DATABASE USING MySQL WorkBench]()
 -  Final Lab Task 2:[Transforming ER into Relational tables]()
 - Final Lab Task 3:[Table Manipulation]()
 - Final Lab Task 3.1[Using MYSQL CLAUSE]()
